@@ -15,8 +15,7 @@
 | [Diabetes Risk Analysis](https://github.com/emaantahirabbasi/diabetes-risk-analysis) | Python, Pandas | Healthcare EDA on 768 patient records |
 | [Housing Price Prediction](https://github.com/emaantahirabbasi/housing-price-prediction) | Python, scikit-learn | Regression model with R²=0.65 |
 | [Netflix Data Analysis](https://github.com/emaantahirabbasi/netflix-data-analysis) | Python, Pandas | EDA on 7,787-row streaming dataset |
-| [Fraud Detection Pipeline](https://github.com/emaantahirabbasi/ml-projects-portfolio) | Python, SMOTE, Random Forest | ROC-AUC 0.97+ on imbalanced data |
-| [Customer Segmentation](https://github.com/emaantahirabbasi/ml-projects-portfolio) | Python, PCA, K-Means | Unsupervised clustering, Silhouette 0.55+ |
+| [Data Science Projects](https://github.com/emaantahirabbasi/data-science-projects) | Python, SMOTE, PCA | Fraud Detection, Customer Segmentation & Credit Card EDA |
 
 ## 🛠️ Skills
 
