@@ -11,11 +11,13 @@
 
 | Project | Tech | Description |
 |---|---|---|
+| [Fraud Detection Pipeline](https://github.com/emaantahirabbasi/fraud-detection-pipeline) | Python, scikit-learn, SMOTE | Imbalanced fraud classification with Logistic Regression & Random Forest (ROC-AUC 0.97+) |
+| [Customer Segmentation](https://github.com/emaantahirabbasi/customer-segmentation-pca) | Python, scikit-learn, PCA, K-Means | Unsupervised segmentation of 200 customers into 4 personas |
 | [Employee Attrition Prediction](https://github.com/emaantahirabbasi/employee-attrition-prediction) | Python, scikit-learn | Predicts employee turnover using Random Forest & Logistic Regression |
 | [Diabetes Risk Analysis](https://github.com/emaantahirabbasi/diabetes-risk-analysis) | Python, R, Pandas | Healthcare EDA on 768 patient records |
+| [Credit Card EDA](https://github.com/emaantahirabbasi/data-science-projects) | Python, Pandas, scikit-learn | Advanced EDA & feature engineering on a credit card dataset |
 | [Housing Price Prediction](https://github.com/emaantahirabbasi/housing-price-prediction) | Python, scikit-learn | Regression model with R²=0.65 |
 | [Netflix Data Analysis](https://github.com/emaantahirabbasi/netflix-data-analysis) | Python, Pandas | EDA on 7,787-row streaming dataset |
-| [Data Science Portfolio](https://github.com/emaantahirabbasi/data-science-projects) | Python, SMOTE, PCA | Fraud Detection (ROC-AUC 0.97+), Customer Segmentation, Credit Card EDA |
 
 ## 🛠️ Skills
 
